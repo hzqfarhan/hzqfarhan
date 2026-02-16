@@ -1,6 +1,6 @@
 # Hello World I'm Haziq Farhan👋
 
-![Banner](https://drive.google.com/file/d/19pajM-HECx-WkMs-5y7a3w8tNpIzr8dG/view?usp=sharing)
+![Banner](https://lh3.googleusercontent.com/d/19pajM-HECx-WkMs-5y7a3w8tNpIzr8dG)
 
 Hi! I’m a passionate Software Engineering undergraduate at Universiti Tun Hussein Onn Malaysia (UTHM). I’m deeply fascinated by the intersection of full-stack development, 3D design, and UI/UX, always eager to push boundaries and explore the latest in web technologies. Currently serving as the Technopreneurship Exco for the Information Technology Club (ITC), I thrive on bridging the gap between innovative code and real-world solutions.🚀💻
 
