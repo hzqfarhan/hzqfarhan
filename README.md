@@ -1,12 +1,9 @@
-# Hello World I'm Haziq Farhan👋
+
 
 ![Banner](https://lh3.googleusercontent.com/d/19pajM-HECx-WkMs-5y7a3w8tNpIzr8dG)
 
-# <h1 align='center'> 👨‍💻 haziqfarhan.exe </h1>
-
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=haerul920&color=0077B5&style=for-the-badge&label=SYSTEM+ACCESS" alt="Profile Views" />
-  <br/>
+
   <a href="https://www.linkedin.com/in/haziq-farhan-bb7175311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
