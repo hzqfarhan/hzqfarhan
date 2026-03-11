@@ -1,4 +1,4 @@
-![Banner](https://lh3.googleusercontent.com/d/19pajM-HECx-WkMs-5y7a3w8tNpIzr8dG)
+![Banner](https://lh3.googleusercontent.com/d/13SLqFfZYeXT6u08uKCdhPfP53dphaOIm)
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 I’m **Haziq Farhan**, a **Software Engineering** student at **UTHM** with a strong interest in **full-stack development**, **UI/UX**, and digital product building.
 
-I enjoy creating modern web experiences that combine clean design, practical functionality, and meaningful user impact. I’m also actively involved in entrepreneurship and innovation as the **Technopreneurship Exco** for the IT Club.
+I enjoy creating modern web experiences that combine clean design, practical functionality, and meaningful user impact.
 
 - 🔭 **Currently Building:** **BarakahSpend**, an Islamic financial companion
 - 🎨 **Interests:** UI/UX Design, Product Development, 3D Design, and Photography
