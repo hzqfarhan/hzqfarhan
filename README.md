@@ -47,21 +47,20 @@ I enjoy creating modern web experiences that combine clean design, practical fun
 | **UTHMHub** | A student-focused platform designed to centralize useful campus-related resources and tools. | Next.js, Supabase | [Visit](https://uthmhub.vercel.app/) |
 
 ---
-
-## 📊 Kracked Dev
-
-[![Haziq's Kracked Dev Profile](https://krackeddevs.com/api/profiles/yunn/og)](https://krackeddevs.com/profile/yunn)
-
-> Replace `YOUR_USERNAME` with your actual Kracked Dev username.
-
----
-
 ## 📈 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haerul920/haerul920/output/pacman-contribution-graph-dark.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/haerul920/haerul920/output/pacman-contribution-graph.svg">
 </picture>
+
+
+---
+
+## 📊 Kracked Dev
+
+[![Haziq's Kracked Dev Profile](https://krackeddevs.com/api/profiles/yunn/og)](https://krackeddevs.com/profile/yunn)
+
 
 ---
 
