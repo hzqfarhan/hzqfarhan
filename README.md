@@ -53,8 +53,7 @@ I am a **Software Engineering** student at **UTHM** specializing in full-stack d
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haerul920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haerul920&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+[![yunn's Profile](https://krackeddevs.com/api/profiles/yunn/og)](https://krackeddevs.com/profile/yunn)
 </p>
 
 <picture>
