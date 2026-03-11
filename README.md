@@ -50,7 +50,7 @@ I enjoy creating modern web experiences that combine clean design, practical fun
 
 ## 📊 Kracked Dev
 
-[![Haziq's Kracked Dev Profile](https://krackeddevs.com/api/profiles/YOUR_USERNAME/og)](https://krackeddevs.com/profile/YOUR_USERNAME)
+[![Haziq's Kracked Dev Profile](https://krackeddevs.com/api/profiles/yunn/og)](https://krackeddevs.com/profile/yunn)
 
 > Replace `YOUR_USERNAME` with your actual Kracked Dev username.
 
