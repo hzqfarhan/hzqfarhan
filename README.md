@@ -13,6 +13,12 @@
   <a href="https://www.tiktok.com/@hakhyunssi">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/692221016637702146">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.threads.com/@icydho">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
 
 </div>
 
