@@ -1,4 +1,6 @@
-![Banner](https://lh3.googleusercontent.com/d/1Qi1BcH67HWACEwN1iNk_GWOJeA6cBJYQ)
+![Banner](https://lh3.googleusercontent.com/d/1qvVoCAIbvVG6Nbr_VL3VeDpx4D8yRwId)
+
+
 
 <div align="center">
 
@@ -71,3 +73,5 @@ If you like my work and want to support my journey, feel free to contribute here
 <a href="https://sociabuzz.com/hakhyun">
   <img src="https://img.shields.io/badge/SociaBuzz-FF6A00?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Haziq" />
 </a>
+
+![Banner](https://lh3.googleusercontent.com/d/1Qi1BcH67HWACEwN1iNk_GWOJeA6cBJYQ)
