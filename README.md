@@ -63,14 +63,6 @@ I enjoy creating modern web experiences that combine clean design, practical fun
 </picture>
 
 
----
-
-## 📊 Kracked Dev
-
-[![Haziq's Kracked Dev Profile](https://krackeddevs.com/api/profiles/yunn/og)](https://krackeddevs.com/profile/yunn)
-
-
----
 
 ## ☕ Support
 
