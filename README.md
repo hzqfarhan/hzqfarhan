@@ -46,15 +46,6 @@ I enjoy creating modern web experiences that combine clean design, practical fun
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **MSI UTHM** | A web platform built for MSI UTHM with a clean interface and structured information flow. | Next.js, UI/UX | [Visit](https://msiuthm.vercel.app/) |
-| **BarakahSpend** | An Islamic financial web app focused on expense tracking, sedekah, zakat estimation, and Ramadan features. | Next.js, Supabase, PWA | [Visit](https://barakahspend.vercel.app/) |
-| **UTHMHub** | A student-focused platform designed to centralize useful campus-related resources and tools. | Next.js, Supabase | [Visit](https://uthmhub.vercel.app/) |
-
----
 ## 📈 GitHub Activity
 
 <picture>
