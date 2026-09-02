@@ -32,7 +32,7 @@ I enjoy creating modern web experiences that combine clean design, practical fun
 
 - 🔭 **Currently Building:** **BarakahSpend**, an Islamic financial companion
 - 🎨 **Interests:** UI/UX Design, Product Development, 3D Design, and Photography
-- 🎮 **Fun Fact:** Content creator for **Mobile Legends** for over 2 years
+- 🎮 **Fun Fact:** Graphic Designer under *VisualX Studio (VX)* for over 2 years
 
 ---
 
