@@ -30,7 +30,7 @@ I’m **Haziq Farhan**, a **Software Engineering** student at **UTHM** with a st
 
 I enjoy creating modern web experiences that combine clean design, practical functionality, and meaningful user impact.
 
-- 🔭 **Currently Building:** **BarakahSpend**, an Islamic financial companion
+- 🔭 **Currently Building:** **ConsensusAI**, a tool that runs the same input through multiple LLMs, aggregates their outputs via a custom scoring model, and flags disagreement using sentiment analysis.
 - 🎨 **Interests:** UI/UX Design, Product Development, 3D Design, and Photography
 - 🎮 **Fun Fact:** Graphic Designer under *VisualX Studio (VX)* for over 2 years
 
